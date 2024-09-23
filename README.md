@@ -1,0 +1,3 @@
+La necessitat inicial que motiva aquest projecte és la de fer els canvis necessaris al codi del tema wprentls i de les extensions que també requereixin canvis (començant pel wprentals_core), per tal que, al meu lloc web, la tarifa de servei es calculi com a % del total a pagar per l'hoste, i no com a % de només el preu de l'estada sense incloure altres despeses.
+He començat pujant talment les carpetes del tema i de l'extensió core.
+No sé molt bé com seguir. Seguiré mirant el tutorial de youtube que he trobat sobre github o provaré de trobar qualque manera per fer canvis als fitxers amb l'ajuda de copilot (l'integrat aquí o l'extern) o amb una altra eina externa a la qual pugui referir els fitxers penjats a github.
